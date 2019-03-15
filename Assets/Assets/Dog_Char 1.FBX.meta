@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: e4cddb8167fbdfa4286419164f9eac7a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Brazo_Der_01
+    100002: Brazo_Der_02
+    100004: Brazo_Der_03
+    100006: Brazo_Der_04
+    100008: Brazo_Izq_01
+    100010: Brazo_Izq_02
+    100012: Brazo_Izq_03
+    100014: Brazo_Izq_04
+    100016: Cabeza
+    100018: Cadera
+    100020: CATRigTail1
+    100022: CATRigTail2
+    100024: CATRigTail3
+    100026: CATRigTail4
+    100028: Cuello
+    100030: //RootNode
+    100032: Espina_01
+    100034: Espina_02
+    100036: Espina_03
+    100038: Oreja_Der
+    100040: Oreja_Izq
+    100042: Pecho
+    100044: PERRO_MESH
+    100046: Pierna_Der_01
+    100048: Pierna_Der_02
+    100050: Pierna_Der_03
+    100052: Pierna_Der_04
+    100054: Pierna_Izq_01
+    100056: Pierna_Izq_02
+    100058: Pierna_Izq_03
+    100060: Pierna_Izq_04
+    400000: Brazo_Der_01
+    400002: Brazo_Der_02
+    400004: Brazo_Der_03
+    400006: Brazo_Der_04
+    400008: Brazo_Izq_01
+    400010: Brazo_Izq_02
+    400012: Brazo_Izq_03
+    400014: Brazo_Izq_04
+    400016: Cabeza
+    400018: Cadera
+    400020: CATRigTail1
+    400022: CATRigTail2
+    400024: CATRigTail3
+    400026: CATRigTail4
+    400028: Cuello
+    400030: //RootNode
+    400032: Espina_01
+    400034: Espina_02
+    400036: Espina_03
+    400038: Oreja_Der
+    400040: Oreja_Izq
+    400042: Pecho
+    400044: PERRO_MESH
+    400046: Pierna_Der_01
+    400048: Pierna_Der_02
+    400050: Pierna_Der_03
+    400052: Pierna_Der_04
+    400054: Pierna_Izq_01
+    400056: Pierna_Izq_02
+    400058: Pierna_Izq_03
+    400060: Pierna_Izq_04
+    2100000: 'Material #25'
+    4300000: PERRO_MESH
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: PERRO_MESH
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

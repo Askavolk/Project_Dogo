@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 2d4a590c94b65944eb186e1e2cac840e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Brazo_Der_01
+    100002: Brazo_Der_02
+    100004: Brazo_Der_03
+    100006: Brazo_Der_04
+    100008: Brazo_Izq_01
+    100010: Brazo_Izq_02
+    100012: Brazo_Izq_03
+    100014: Brazo_Izq_04
+    100016: Cabeza
+    100018: Cadera
+    100020: CATRigLLegPlatform
+    100022: CATRigLLegPlatform 1
+    100024: CATRigRLegPlatform
+    100026: CATRigRLegPlatform 1
+    100028: CATRigTail1
+    100030: CATRigTail2
+    100032: CATRigTail3
+    100034: CATRigTail4
+    100036: Character001
+    100038: Cuello
+    100040: Espina_01
+    100042: Espina_02
+    100044: Espina_03
+    100046: Oreja_Der
+    100048: Oreja_Izq
+    100050: Pecho
+    100052: //RootNode
+    100054: PERRO_MESH
+    100056: Pierna_Der_01
+    100058: Pierna_Der_02
+    100060: Pierna_Der_03
+    100062: Pierna_Der_04
+    100064: Pierna_Izq_01
+    100066: Pierna_Izq_02
+    100068: Pierna_Izq_03
+    100070: Pierna_Izq_04
+    400000: Brazo_Der_01
+    400002: Brazo_Der_02
+    400004: Brazo_Der_03
+    400006: Brazo_Der_04
+    400008: Brazo_Izq_01
+    400010: Brazo_Izq_02
+    400012: Brazo_Izq_03
+    400014: Brazo_Izq_04
+    400016: Cabeza
+    400018: Cadera
+    400020: CATRigLLegPlatform
+    400022: CATRigLLegPlatform 1
+    400024: CATRigRLegPlatform
+    400026: CATRigRLegPlatform 1
+    400028: CATRigTail1
+    400030: CATRigTail2
+    400032: CATRigTail3
+    400034: CATRigTail4
+    400036: Character001
+    400038: Cuello
+    400040: Espina_01
+    400042: Espina_02
+    400044: Espina_03
+    400046: Oreja_Der
+    400048: Oreja_Izq
+    400050: Pecho
+    400052: //RootNode
+    400054: PERRO_MESH
+    400056: Pierna_Der_01
+    400058: Pierna_Der_02
+    400060: Pierna_Der_03
+    400062: Pierna_Der_04
+    400064: Pierna_Izq_01
+    400066: Pierna_Izq_02
+    400068: Pierna_Izq_03
+    400070: Pierna_Izq_04
+    2100000: 'Material #25'
+    4300000: PERRO_MESH
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: PERRO_MESH
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
